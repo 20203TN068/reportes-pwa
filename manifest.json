@@ -2,29 +2,29 @@
     "theme_color": "#f635b2",
     "background_color": "#f7d6f7",
     "display": "standalone",
-    "scope": "/",
-    "start_url": "index.html",
+    "scope": "./",
+    "start_url": "./",
     "name": "Reports PWA",
     "description": "`PWA de prueba",
     "short_name": "rpwa",
     "icons": [
         {
-            "src": "img/icons/icon-192x192.png",
+            "src": "./img/icons/icon-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "img/icons/icon-256x256.png",
+            "src": "./img/icons/icon-256x256.png",
             "sizes": "256x256",
             "type": "image/png"
         },
         {
-            "src": "img/icons/icon-384x384.png",
+            "src": "./img/icons/icon-384x384.png",
             "sizes": "384x384",
             "type": "image/png"
         },
         {
-            "src": "img/icons/icon-512x512.png",
+            "src": "./img/icons/icon-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }

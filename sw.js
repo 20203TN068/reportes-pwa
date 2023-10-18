@@ -7,12 +7,12 @@ const DYNAMIC_LIMIT = 30;
 //console.log('SERVICEWORKER');
 //Todos aquellos recursos propios de la aplicación 
 const APP_SHELL = [
-    '/',
-    '/index.html',
-    'css/styles.css',
-    '/pages/offline.html',
-    'img/1.png',
-    'js/app.js',
+    './',
+    './index.html',
+    './css/styles.css',
+    './pages/offline.html',
+    './img/1.png',
+    './js/app.js',
 ];
 // Todos aquellos recursos que nunca cambian
 const APP_SHELL_INMUTABLE = [
